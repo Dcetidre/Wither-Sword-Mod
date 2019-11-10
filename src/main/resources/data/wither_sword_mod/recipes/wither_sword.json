@@ -1,0 +1,20 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	"pattern" : [
+		" # ",
+		" # ",
+		" / "
+	],
+	"key" : {
+		"#" : {
+			"item" : "minecraft:wither_skeleton_skull"
+		},
+		"/" : {
+			"item" : "minecraft:bone"
+		}
+	},
+	"result" : {
+		"item" : "wither_sword_mod:wither_sword",
+		"count" : 1
+	}
+}

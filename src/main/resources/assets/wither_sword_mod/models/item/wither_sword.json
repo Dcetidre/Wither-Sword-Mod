@@ -1,0 +1,6 @@
+{
+	"parent" : "item/handheld",
+	"textures" : {
+		"layer0" : "wither_sword_mod:item/wither_sword"
+	}
+}
