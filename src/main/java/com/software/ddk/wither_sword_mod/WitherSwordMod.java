@@ -1,13 +1,11 @@
 package com.software.ddk.wither_sword_mod;
 
-
 import com.software.ddk.wither_sword_mod.common.items.WitherSword;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class WitherSwordMod implements ModInitializer {
-
     public static final String MOD_ID = "wither_sword_mod";
 
     @Override
