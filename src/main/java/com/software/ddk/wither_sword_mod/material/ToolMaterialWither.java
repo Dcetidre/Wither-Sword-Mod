@@ -26,32 +26,32 @@ public class ToolMaterialWither implements ToolMaterial{
 
 	@Override
 	public int getDurability() {
-		return 1200; //1561
+		return durability; //1561
 	}
 
 	@Override
 	public float getMiningSpeed() {
-		return 8.0f;
+		return miningSpeed;
 	}
 
 	@Override
 	public float getAttackDamage() {
-		return 3.0f;
+		return attackDamage;
 	}
 
 	@Override
 	public int getMiningLevel() {
-		return 3;
+		return miningLevel;
 	}
 
 	@Override
 	public int getEnchantability() {
-		return 10;
+		return enchantability;
 	}
 
 	@Override
 	public Ingredient getRepairIngredient() {
-		return Ingredient.ofItems(Items.WITHER_SKELETON_SKULL);
+		return repairIngredient;
 	}
 
 }
