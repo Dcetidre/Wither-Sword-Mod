@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Wither Sword Mod",
-  "description": "A mod that adds an endgame wither themed Sword",
+  "description": "A simple wither based late game sword mod for fabric",
   "authors": [
     "DiegoDDK"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Diegoddk/Wither-Sword-Mod"
   },
 
   "license": "CC0-1.0",

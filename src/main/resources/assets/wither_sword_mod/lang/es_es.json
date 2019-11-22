@@ -1,3 +1,4 @@
 {
-"item.wither_sword_mod.wither_sword" : "Espada Wither"
+  "item.wither_sword_mod.wither_sword" : "Espada Wither",
+  "wither_sword_mod.wither_sword.tooltip" : "Aplica el efecto wither al enemigo."
 }
