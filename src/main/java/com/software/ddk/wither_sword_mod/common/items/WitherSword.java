@@ -29,7 +29,7 @@ public class WitherSword extends SwordItem {
 	@Override
 	public boolean postHit(ItemStack itemStack_1, LivingEntity livingEntity_1, LivingEntity livingEntity_2) {
 	    super.postHit(itemStack_1, livingEntity_1, livingEntity_2);
-	    livingEntity_1.addPotionEffect(new StatusEffectInstance(StatusEffects.WITHER, 250));
+	    livingEntity_1.addStatusEffect(new StatusEffectInstance(StatusEffects.WITHER, 250));
 	    return true;
 	}
 
